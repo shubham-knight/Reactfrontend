@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Reactfrontend/static/css/main.7fdbcea1.chunk.css",
+    "main.js": "/Reactfrontend/static/js/main.f7622122.chunk.js",
+    "main.js.map": "/Reactfrontend/static/js/main.f7622122.chunk.js.map",
+    "runtime-main.js": "/Reactfrontend/static/js/runtime-main.f214e2ad.js",
+    "runtime-main.js.map": "/Reactfrontend/static/js/runtime-main.f214e2ad.js.map",
+    "static/js/2.5ac6b73b.chunk.js": "/Reactfrontend/static/js/2.5ac6b73b.chunk.js",
+    "static/js/2.5ac6b73b.chunk.js.map": "/Reactfrontend/static/js/2.5ac6b73b.chunk.js.map",
+    "static/js/3.0b31e96e.chunk.js": "/Reactfrontend/static/js/3.0b31e96e.chunk.js",
+    "static/js/3.0b31e96e.chunk.js.map": "/Reactfrontend/static/js/3.0b31e96e.chunk.js.map",
+    "index.html": "/Reactfrontend/index.html",
+    "static/css/main.7fdbcea1.chunk.css.map": "/Reactfrontend/static/css/main.7fdbcea1.chunk.css.map",
+    "static/js/2.5ac6b73b.chunk.js.LICENSE.txt": "/Reactfrontend/static/js/2.5ac6b73b.chunk.js.LICENSE.txt",
+    "static/media/Ellipse 216.84494519.png": "/Reactfrontend/static/media/Ellipse 216.84494519.png",
+    "static/media/Group 35650.23890b97.png": "/Reactfrontend/static/media/Group 35650.23890b97.png",
+    "static/media/App.css": "/Reactfrontend/static/media/set.71bb2850.png",
+    "static/media/Group 35698.61b44f7c.png": "/Reactfrontend/static/media/Group 35698.61b44f7c.png",
+    "static/media/Group 35699.e6b24157.png": "/Reactfrontend/static/media/Group 35699.e6b24157.png",
+    "static/media/Group 35700.00003fc6.png": "/Reactfrontend/static/media/Group 35700.00003fc6.png",
+    "static/media/Layer 4dsasdas.cb1a31bd.png": "/Reactfrontend/static/media/Layer 4dsasdas.cb1a31bd.png",
+    "static/media/asdasd.5fd506e7.png": "/Reactfrontend/static/media/asdasd.5fd506e7.png",
+    "static/media/bus.fead792a.png": "/Reactfrontend/static/media/bus.fead792a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f214e2ad.js",
+    "static/js/2.5ac6b73b.chunk.js",
+    "static/css/main.7fdbcea1.chunk.css",
+    "static/js/main.f7622122.chunk.js"
+  ]
+}
