@@ -1,0 +1,239 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.homecont{
+  background-image: url("./img/set.png");
+  background-repeat: no-repeat;
+}
+
+.homename{
+padding: 150px 100px 250px 100px;
+}
+.homename h1, .homename p{
+  color: aliceblue;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.homebtn{
+  padding: 10px 25px !important;
+  border-radius: 50px !important;
+}
+.navname{
+  color: aliceblue;
+}
+.aboutuscol2 p, .aboutuscol2 h3, .aboutuscol2 h6{
+ text-align: left;
+ padding-right: 46%;
+}
+.aboutusbtn{
+  padding: 10px 20px;
+  border: 50% ;
+}
+.servicecol1{
+  padding: 150px 130px;
+  
+}
+.servicecol1 p, .servicecol1 h3, .servicecol1 .btn{
+  text-align: left;
+}
+.serbtn{
+  background-color: #16B2FF17;
+  color: #0E77FF;
+  float: left;
+  margin: 10px 10px 10px 10px;
+  font-size: 15px;
+  border: 40%;;
+}
+.serbtn:hover{
+  background-color: #0E77FF;
+  color: #ffffff;
+}
+.servicecol2{
+  padding-right: 0px;
+  background: linear-gradient(90deg, #ffffff 50%, #0E77FF 50%);
+  
+}
+.workflowcol1{
+  padding-top: 100px;
+}
+.workflowcol1 h1, .workflowcol1 p{
+  text-align: center;
+  padding: 10px 200px;
+}
+.workbtn{
+  background-color: #16B2FF17;
+  color: #0E77FF;
+  border-radius: 50px !important;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 10px;
+}
+.workbtn:hover{
+  background-color: #0E77FF;
+  color: #ffffff;
+}
+.tech{
+  padding-top: 50px;
+  padding-left: 0px;
+}
+.tech p, .tech h1{
+  text-align: center;
+}
+.btn-round, .btn-mid{
+  background-color: #b6c1cf;
+  border-radius: 17px;
+  padding: 10px 40px;
+  }
+ .btn-default:hover{
+   color: #0E77FF;
+ } 
+ .techtool{
+
+   padding-top: 60px;
+   display: flex;
+   justify-content: center;
+ }
+ .techbox{
+   margin: 10px 20px;
+   width: 80px;
+   height: 80px;
+   border: 1px solid #0E77FF;
+   position: relative;
+   
+ }
+ .techbox img{
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+ }
+ .customercol1{
+   background-color: #0E77FF;
+   padding: 100px;
+ }
+ .customercol1 img{
+   border-radius: 50%;
+   border: 50px solid rgb(255, 255, 255);
+ }
+ .customercol2{
+  padding: 100px 80px;
+ }
+ .customercol2 img{
+   padding-top: 80px;
+ }
+ .casestudy{
+   padding-top: 100px;
+ }
+ .casestdycol1{
+   padding: 0px 300px;
+   text-align: center;
+ }
+.casebtnarea{
+  padding: 50px;
+} 
+.casebtn{
+  border-radius: 20%;
+}
+.feed{
+  padding-left: 0px;
+}
+.feedcol1{
+  background-image: url("./img/Group\ 35686.png");
+  background-repeat: no-repeat;  
+}
+.feedbtn{
+  padding: 10px 25px !important;
+  border-radius: 50px !important;
+  background-color: #0E77FF;
+  color: #ffffff;
+}
+/* .feedcol1 img{
+  width: auto;
+  height: auto;
+  object-fit: fill;
+} */
+.feedcol2{
+  overflow: hidden;
+  background-image: linear-gradient(to top left, #0E77FF 50%, #ffffff 50%);
+  padding-left: 0px;
+}
+.feedcol2 h3{
+  padding-bottom: 20px;
+}
+.footer{
+  padding: 40px 50px;
+  background-color: #0E77FF;
+  color: #ffffff;
+}
+.footercol1{
+  padding-top: 30px;
+}
+.footersocial{
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgb(252, 252, 252);
+  border-radius: 50%;
+  text-align: center;
+  margin: 10px;
+}
+.footersocial:hover{
+  background-color: #ffffff;
+}
+.fa-facebook-f, .fa-twitter, .fa-instagram{
+  vertical-align: middle;
+}
+.fa-facebook-f:hover, .fa-twitter:hover, .fa-instagram:hover{
+  color:#0E77FF;
+}
+.footercol2 ul{
+  padding-left: 0px; 
+}
+.footercol2 ul li{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.footercol2 hr{
+  border: 2px solid #21B3FF;
+  width: 20%;
+  margin-left: 0px;
+}
